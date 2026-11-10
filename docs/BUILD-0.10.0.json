@@ -1,0 +1,11 @@
+{
+  "version": "0.10.0",
+  "platform": "Windows x64",
+  "runtime": "3.14.8",
+  "runtime_url": "https://www.python.org/ftp/python/3.14.8/python-3.14.8-embed-amd64.zip",
+  "runtime_sha256": "a93abe456ab01bd96d7a085b3cdb6566b3063f4241360d114142fbdb07f0a310",
+  "compiler": "Zig 0.15.2",
+  "windows_execution_tested": false,
+  "exe_sha256": "6808d0bc9872452c3f4ecdcd15783125462d52f69f86c1495c628fbf6632e32f",
+  "signed": false
+}

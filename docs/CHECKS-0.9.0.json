@@ -1,0 +1,31 @@
+{
+  "version": "0.9.0",
+  "unit_tests": 293,
+  "full_passes": 2,
+  "browser_suites": [
+    "ui",
+    "apps-ui",
+    "care-ui",
+    "audit-ui",
+    "reliability-ui",
+    "lifecycle",
+    "pc-ui",
+    "firmware-ui",
+    "release-ui"
+  ],
+  "release_ui_passes_after_fixes": 2,
+  "powershell_parse_scripts": 37,
+  "oem_contract_cases_with_doubles": 15,
+  "installer_transaction_cases_with_doubles": 4,
+  "manifest_files_verified": 100,
+  "source_parity": true,
+  "pe_x64_verified": 9,
+  "native_modules_warnings_as_errors": [
+    "benchmark",
+    "memory",
+    "graphics"
+  ],
+  "windows_execution": false,
+  "signed": false,
+  "stable_release": false
+}

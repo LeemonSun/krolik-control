@@ -1,0 +1,12 @@
+Krolik Control 0.10.0 · исходники · LeemonSun
+
+Этот архив предназначен для разработки. Готовая версия поставляется отдельно:
+KrolikControl_0.10.0_Setup.exe либо portable ZIP с KrolikControl.exe и папкой data.
+
+Для запуска исходников нужен Python 3.11+.
+Start.cmd — Windows; Demo.cmd — демонстрация без изменения системы.
+Build-Portable.ps1 — сборка готового приложения.
+
+README.md — возможности и ограничения.
+docs/TESTED.md — проверки текущей версии.
+docs/WINDOWS-TEST.md — ещё не пройденная аппаратная приёмка.

@@ -1,0 +1,41 @@
+{
+  "version": "0.10.0",
+  "manifest_files": 120,
+  "pe_x64": 41,
+  "source_parity": true,
+  "payload_parity": true,
+  "clean_distribution": true,
+  "setup_bytes": 13607424,
+  "portable_bytes": 13458143,
+  "unpacked_bytes": 26778938,
+  "runtime_sha256": "a93abe456ab01bd96d7a085b3cdb6566b3063f4241360d114142fbdb07f0a310",
+  "windows_execution_tested": false,
+  "authenticode_signed": false,
+  "unit_tests": 358,
+  "browser_suites": [
+    "ui",
+    "care-ui",
+    "apps-ui",
+    "audit-ui",
+    "reliability-ui",
+    "lifecycle",
+    "pc-ui",
+    "firmware-ui",
+    "release-ui",
+    "product-ui"
+  ],
+  "new_journey_groups": 14,
+  "powershell_parse_scripts": 61,
+  "oem_contract_cases_with_doubles": 15,
+  "installer_transaction_cases_with_doubles": 4,
+  "native_modules_warnings_as_errors": [
+    "benchmark",
+    "memory",
+    "graphics",
+    "adl"
+  ],
+  "python": "3.12.14",
+  "chromium": "131.0.6778.204",
+  "powershell": "7.6.7",
+  "stable_release": false
+}

@@ -1,0 +1,25 @@
+#include <windows.h>
+1 ICON "../assets/krolik-control.ico"
+1 RT_MANIFEST "app.manifest"
+1 VERSIONINFO
+FILEVERSION 0,10,0,0
+PRODUCTVERSION 0,10,0,0
+FILEOS VOS_NT_WINDOWS32
+FILETYPE VFT_APP
+BEGIN
+ BLOCK "StringFileInfo"
+ BEGIN
+  BLOCK "040904B0"
+  BEGIN
+   VALUE "FileDescription", "Krolik Control Desktop\0"
+   VALUE "FileVersion", "0.10.0\0"
+   VALUE "ProductName", "Krolik Control\0"
+   VALUE "ProductVersion", "0.10.0\0"
+   VALUE "OriginalFilename", "KrolikControl.exe\0"
+  END
+ END
+ BLOCK "VarFileInfo"
+ BEGIN
+  VALUE "Translation", 0x409, 1200
+ END
+END
